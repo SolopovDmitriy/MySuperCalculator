@@ -1,0 +1,19 @@
+﻿<Window x:Class="MySuperCalculator.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:MySuperCalculator"
+        mc:Ignorable="d"
+        Title="MainWindow" Height="450" Width="800">
+    <Grid x:Name="gridPanel">
+        <Button x:Name="buttonPress" FontFamily =" Consolas" FontSize="50" Foreground="#FFD13E5B" Width="150" Height="180" Click="buttonPress_Click">
+            <Button.Background>
+                <ImageBrush ImageSource="apple3.png"/>
+            </Button.Background>
+
+
+            Нажми мну
+        </Button>
+    </Grid>
+</Window>

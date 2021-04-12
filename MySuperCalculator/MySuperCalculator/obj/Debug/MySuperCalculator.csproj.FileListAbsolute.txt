@@ -1,0 +1,15 @@
+D:\c#\lesson35\MySuperCalculator\MySuperCalculator\bin\Debug\MySuperCalculator.exe.config
+D:\c#\lesson35\MySuperCalculator\MySuperCalculator\bin\Debug\MySuperCalculator.exe
+D:\c#\lesson35\MySuperCalculator\MySuperCalculator\bin\Debug\MySuperCalculator.pdb
+D:\c#\lesson35\MySuperCalculator\MySuperCalculator\obj\Debug\MySuperCalculator.csprojAssemblyReference.cache
+D:\c#\lesson35\MySuperCalculator\MySuperCalculator\obj\Debug\MainWindow.g.cs
+D:\c#\lesson35\MySuperCalculator\MySuperCalculator\obj\Debug\App.g.cs
+D:\c#\lesson35\MySuperCalculator\MySuperCalculator\obj\Debug\MySuperCalculator_MarkupCompile.cache
+D:\c#\lesson35\MySuperCalculator\MySuperCalculator\obj\Debug\MySuperCalculator_MarkupCompile.lref
+D:\c#\lesson35\MySuperCalculator\MySuperCalculator\obj\Debug\MainWindow.baml
+D:\c#\lesson35\MySuperCalculator\MySuperCalculator\obj\Debug\MySuperCalculator.g.resources
+D:\c#\lesson35\MySuperCalculator\MySuperCalculator\obj\Debug\MySuperCalculator.Properties.Resources.resources
+D:\c#\lesson35\MySuperCalculator\MySuperCalculator\obj\Debug\MySuperCalculator.csproj.GenerateResource.cache
+D:\c#\lesson35\MySuperCalculator\MySuperCalculator\obj\Debug\MySuperCalculator.csproj.CoreCompileInputs.cache
+D:\c#\lesson35\MySuperCalculator\MySuperCalculator\obj\Debug\MySuperCalculator.exe
+D:\c#\lesson35\MySuperCalculator\MySuperCalculator\obj\Debug\MySuperCalculator.pdb
